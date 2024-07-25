@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently working on [UET_VNU](https://uet.vnu.edu.vn/)
 
-- 🌱 I’m currently learning **... code**
-
 - 📫 How to reach me **datt2505myethuy5@gmail.com**
 
-- ⚡ :( **My Lover == NULL**
+- ⚡ Sad-boiz
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
