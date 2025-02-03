@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **datt2505myethuy5@gmail.com**
 
-- ⚡ Sad-boiz
+- ⚡ And so on ...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
