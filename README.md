@@ -6,6 +6,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=datmieu204&label=Profile%20views&color=1fddea&style=flat" alt="datmieu204" />
 </p>
-
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=datmieu204&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Langs" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=datmieu204&theme=dark" alt="Streak Stats" /> | <img src="https://github-readme-stats.vercel.app/api?username=datmieu204&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" /> |
-|---|---|---|
