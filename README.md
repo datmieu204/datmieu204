@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👨‍💻, I'm Nguyen Tuan Dat</h1>
 <h3 align="center">AI Engineer | AI Agents | AI Automation | AI Researcher</h3>
 
+<h4 align="center">Contact: datmieu2004@gmail.com</h4>
+
 <img align="center" alt="Datdangcode" width="1000" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="center">
